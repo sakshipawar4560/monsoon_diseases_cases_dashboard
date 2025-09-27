@@ -71,11 +71,6 @@ The Power BI dashboard includes the following visualizations:
 3. **Clustered Bar Chart** – Cases by region for comparison.  
 4. **Donut Chart** – Distribution of cases by disease type (Malaria vs Dengue).  
 5. **Stacked Column Chart** – Disease cases segmented by Rainfall Type (Light/Moderate/Heavy).  
-6. **Heatmap (Matrix)** – Regional cases across months to highlight hotspots.  
-7. **Scatter Plot** – Rainfall vs Cases with bubble size = Hospitalizations.  
-8. **Gauge Chart** – Real-time Mosquito Risk Index indicator.  
-9. **TreeMap** – Effectiveness of Preventive Measures.  
-10. **Slicers** – Filters for Date, City, Region, Disease Type.  
 
 ---
 
